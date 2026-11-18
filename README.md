@@ -32,3 +32,7 @@ Add your name here.
 
 ## Project Type
 First-Year project 
+
+## Sample Output 
+The program displays the student's name,roll number,total marks, percentage and final result(PASS or FAIL)
+
