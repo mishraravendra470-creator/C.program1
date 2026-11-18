@@ -28,7 +28,7 @@ C Programming
 4. Enter student details and marks.
 
 ## Author
-Add your name here.
+Khushbu Mishra 
 
 ## Project Type
 First-Year project 
