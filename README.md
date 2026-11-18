@@ -35,4 +35,9 @@ First-Year project
 
 ## Sample Output 
 The program displays the student's name,roll number,total marks, percentage and final result(PASS or FAIL)
-
+## Example Output 
+Name: Rahul
+Roll Number: 101
+Total Marks: 400/500
+Percentage: 80.00%
+Result: PASS
